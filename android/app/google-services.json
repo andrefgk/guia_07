@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788774532481",
+    "project_id": "prubita",
+    "storage_bucket": "prubita.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788774532481:android:dcb04308625403b14c2480",
+        "android_client_info": {
+          "package_name": "com.example.guia_07"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfcAqe1JEzCSMvtpEHurjZCmmL3Dz8SW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
